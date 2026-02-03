@@ -12,7 +12,7 @@ export default function ContactSection() {
                     </h2>
                     <div className="w-24 h-1 bg-gradient-to-r from-teal to-gold mx-auto mb-6"></div>
                     <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                        Ready to take the next step? Let's connect
+                        Ready to take the next step? Let&apos;s connect
                     </p>
                 </div>
 
@@ -85,7 +85,7 @@ export default function ContactSection() {
                         <h3 className="text-2xl font-bold text-navy mb-6">Connect Directly</h3>
                         <p className="text-gray-600 mb-8 leading-relaxed">
                             Looking for immediate assistance or have a specific inquiry?
-                            Reach out through any of these quick channels. I'm usually available
+                            Reach out through any of these quick channels. I&apos;m usually available
                             to respond within a few hours.
                         </p>
 

@@ -61,7 +61,7 @@ export default function AboutSection() {
                         <p className="text-lg text-gray-700 leading-relaxed">
                             Dedicated to revolutionizing the traditional staffing and career development landscape.
                             With a specialized focus on technical placements, I connect top-tier talent with leading companies.
-                            <span className="font-semibold text-navy"> I don't just match skills—I cultivate careers.</span>
+                            <span className="font-semibold text-navy"> I don&apos;t just match skills—I cultivate careers.</span>
                         </p>
                         <p className="text-lg text-gray-700 leading-relaxed">
                             Bringing over a decade of expertise in talent recruitment, I ensure a perfect fit for your
@@ -116,7 +116,7 @@ export default function AboutSection() {
                                         </div>
 
                                         <p className="text-gray-700 text-lg mb-6 italic leading-relaxed">
-                                            "{testimonial.text}"
+                                            &quot;{testimonial.text}&quot;
                                         </p>
 
                                         <div className="border-t pt-4">

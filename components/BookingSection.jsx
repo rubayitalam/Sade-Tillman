@@ -161,7 +161,7 @@ ${formData.message || 'No additional message.'}`
                             <h3 className="text-2xl font-bold mb-2">📬 Almost Ready!</h3>
                             <p className="text-white/90">
                                 Your email client should have opened with the appointment details.
-                                <span className="font-bold block mt-2 text-gold">Please click "SEND" in your email app to complete your booking!</span>
+                                <span className="font-bold block mt-2 text-gold">Please click &quot;SEND&quot; in your email app to complete your booking!</span>
                             </p>
                         </div>
                     )}
