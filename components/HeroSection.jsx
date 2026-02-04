@@ -63,11 +63,11 @@ export default function HeroSection() {
                                 <span>WhatsApp Me</span>
                             </a>
                             <a
-                                href="mailto:sdsmithtillman@gmail.com"
+                                href="mailto:smitht@getstartedwithnextgen.today"
                                 className="flex items-center gap-3 text-base hover:text-teal transition-colors group"
                             >
                                 <FaEnvelope className="text-gold group-hover:scale-110 transition-transform" />
-                                <span className="truncate">sdsmithtillman@gmail.com</span>
+                                <span className="truncate">smitht@getstartedwithnextgen.today</span>
                             </a>
                             <a
                                 href="https://www.linkedin.com/in/sade-s-tillman/"

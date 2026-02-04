@@ -1,11 +1,11 @@
-# Sade S. Tillman - Appointment Booking Website
+# Sade S. Tillman - Next Generation Career Coaching
 
-A modern, professional appointment booking website for Sade S. Tillman, a technical recruiter specializing in empowering talent and companies.
+A modern, professional appointment booking website for Sade S. Tillman and **Next Generation Career Coaching**. Specializing in technical recruitment, career development, and empowering tech talent and companies.
 
 ## Features
 
 - 🎨 **Modern, Responsive Design**: optimized for desktop and mobile (iPhone 375px+).
-- 📅 **Smart Booking System**: Select service types and time slots (ET).
+- 📅 **Smart Booking System**: Select service types and time slots (EST).
 - ✉️ **Zero Config Email**: Uses client-side `mailto:` links - works immediately without API setup!
 - 💬 **WhatsApp Integration**: Direct messaging for quick inquiries.
 - 💼 **Direct Apply**: Job opportunities link directly to LinkedIn.
@@ -43,18 +43,18 @@ npm run dev
 ## Customization
 
 ### Contact Info
-- **Email**: `sdsmithtillman@gmail.com`
+- **Company**: Next Generation Career Coaching
+- **Email**: `smitht@getstartedwithnextgen.today`
 - **Phone/WhatsApp**: `+1 (336) 493-6245`
 - **LinkedIn**: `https://www.linkedin.com/in/sade-s-tillman/`
 
 ### Available Time Slots
 The booking system is configured for:
-- 12:00 AM - 6:30 AM ET
-- 8:00 PM - 11:30 PM ET
+- 10:00 AM - 7:00 PM EST
 
 ## Deployment
 Compatible with any Next.js hosting platform (Vercel, Netlify, etc.). No environment variables or email API keys required!
 
 ## Support
 © 2026 Sade S. Tillman. All rights reserved.
-Powered by Zillion Technologies, Inc.
+Powered by Next Generation Career Coaching

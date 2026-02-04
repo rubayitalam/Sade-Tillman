@@ -96,7 +96,7 @@ Message:
 ${formData.message || 'No additional message.'}`
 
             const subject = `Appointment Booking Request - ${formData.name}`
-            const mailtoLink = `mailto:sdsmithtillman@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
+            const mailtoLink = `mailto:smitht@getstartedwithnextgen.today?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`
 
             // Open the user's default email client
             window.location.href = mailtoLink
@@ -141,7 +141,7 @@ ${formData.message || 'No additional message.'}`
                             WhatsApp
                         </a>
                         <a
-                            href="mailto:sdsmithtillman@gmail.com"
+                            href="mailto:smitht@getstartedwithnextgen.today"
                             className="flex items-center justify-center gap-3 bg-white border-2 border-teal text-teal py-4 rounded-2xl font-bold hover:bg-teal hover:text-white transition-all shadow-md active:scale-95"
                         >
                             <FaEnvelope />
@@ -179,7 +179,7 @@ ${formData.message || 'No additional message.'}`
                             <p className="text-white/90">This form will prepare an email with your details</p>
                             <div className="mt-4 flex items-center justify-center gap-2 text-sm">
                                 <FaClock className="text-gold" />
-                                <span>Available: 12:00 AM - 6:30 AM ET | 8:00 PM - 11:30 PM ET</span>
+                                <span>Available: 10:00 AM - 7:00 PM EST</span>
                             </div>
                         </div>
 

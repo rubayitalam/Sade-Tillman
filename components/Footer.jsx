@@ -80,7 +80,7 @@ export default function Footer() {
                         </p>
                         <p className="flex items-center gap-2">
                             Powered by
-                            <span className="text-teal font-semibold">Zillion Technologies, Inc.</span>
+                            <span className="text-teal font-semibold">Next Generation Career Coaching</span>
                         </p>
                         <div className="flex gap-6">
                             <a href="#" className="hover:text-teal transition-colors">Privacy Policy</a>

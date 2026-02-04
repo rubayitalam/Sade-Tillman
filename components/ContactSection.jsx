@@ -51,7 +51,7 @@ export default function ContactSection() {
                                 </a>
 
                                 <a
-                                    href="mailto:sdsmithtillman@gmail.com"
+                                    href="mailto:smitht@getstartedwithnextgen.today"
                                     className="flex items-center gap-4 p-4 rounded-xl hover:bg-teal/5 transition-colors group"
                                 >
                                     <div className="w-12 h-12 bg-gradient-to-br from-navy to-navy/80 rounded-full flex items-center justify-center group-hover:scale-110 transition-transform flex-shrink-0">
@@ -59,7 +59,7 @@ export default function ContactSection() {
                                     </div>
                                     <div className="min-w-0">
                                         <p className="text-xs text-gray-500 font-medium uppercase tracking-wider">Email</p>
-                                        <p className="font-semibold text-navy truncate break-words">sdsmithtillman@gmail.com</p>
+                                        <p className="font-semibold text-navy truncate break-words">smitht@getstartedwithnextgen.today</p>
                                     </div>
                                 </a>
 
@@ -100,7 +100,7 @@ export default function ContactSection() {
                                 Message on WhatsApp
                             </a>
                             <a
-                                href="mailto:sdsmithtillman@gmail.com?subject=Inquiry from Website"
+                                href="mailto:smitht@getstartedwithnextgen.today?subject=Inquiry from Website"
                                 className="flex items-center justify-center gap-3 w-full bg-navy text-white py-4 rounded-xl font-bold hover:shadow-xl transition-all hover:scale-[1.02] active:scale-95 shadow-md"
                             >
                                 <FaEnvelope className="text-xl" />
@@ -119,15 +119,9 @@ export default function ContactSection() {
                             <p className="text-sm text-gray-500 text-center font-medium uppercase tracking-widest mb-4">
                                 Consultation Hours
                             </p>
-                            <div className="bg-gray-50 p-4 rounded-xl grid grid-cols-1 sm:grid-cols-2 gap-4">
-                                <div className="text-center sm:border-r border-gray-200">
-                                    <p className="text-xs text-gray-500">Morning Session</p>
-                                    <p className="text-navy font-bold">12:00 AM - 6:30 AM ET</p>
-                                </div>
-                                <div className="text-center">
-                                    <p className="text-xs text-gray-500">Evening Session</p>
-                                    <p className="text-navy font-bold">8:00 PM - 11:30 PM ET</p>
-                                </div>
+                            <div className="bg-gray-50 p-4 rounded-xl flex flex-col items-center justify-center">
+                                <p className="text-xs text-gray-500 uppercase tracking-widest font-bold mb-1">Standard Availability</p>
+                                <p className="text-navy font-bold text-lg">10:00 AM - 7:00 PM EST</p>
                             </div>
                         </div>
                     </div>
